@@ -6,7 +6,8 @@ Inquisitive, energetic computer science specialist skilled in leadership, with a
 **sumitkhamar2260/sumitkhamar2260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->[GitHub Logo](/images/0.jfif)
+-->
+![GitHub Logo](/images/0.jfif)
 
 
 - 🔭 I’m currently working on Different NLP Concepts
