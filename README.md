@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Sumit  
 
-Inquisitive, energetic computer science specialist skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
+#### Inquisitive, energetic computer science specialist skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
 
 <!--
 **sumitkhamar2260/sumitkhamar2260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [1]: https://github.com/sumitkhamar2260
 [2]: https://www.facebook.com/khamar.sumit.3
 [3]: https://www.linkedin.com/in/sumit-khamar-a1693a15a/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260)](https://github.com/anuraghazra/github-readme-stats)
