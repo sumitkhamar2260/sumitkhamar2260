@@ -7,7 +7,7 @@ Inquisitive, energetic computer science specialist skilled in leadership, with a
 
 Here are some ideas to get you started:
 -->
-![GitHub Logo](/images/0.jfif)
+![(/images/0.jfif)](https://www.linkedin.com/in/sumit-khamar-a1693a15a/)
 
 
 - 🔭 I’m currently working on Different NLP Concepts
