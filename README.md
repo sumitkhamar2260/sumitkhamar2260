@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there, I am Sumit  
+
+Inquisitive, energetic computer science specialist skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
 
 <!--
 **sumitkhamar2260/sumitkhamar2260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Different NLP Concepts
+- 🌱 I’m currently learning NLP, Flutter and ML
+- 👯 I’m looking to collaborate on Machine Learning Projects
+- 💬 Ask me about anything on Python and ML
+- ⚡ Fun fact: I Never Prefer to Stay Behind in anything Except Driving
+
+https://www.linkedin.com/in/sumit-khamar-a1693a15a/- automatic!
+[GitHub](https://www.linkedin.com/in/sumit-khamar-a1693a15a/)
