@@ -28,4 +28,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 [![Sumit's Github Page](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/sumitkhamar2260)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260&theme=tokyonight)](https://github.com/sumitkhamar2260?tab=repositories)
