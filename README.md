@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [2]: https://www.facebook.com/khamar.sumit.3
 [3]: https://www.linkedin.com/in/sumit-khamar-a1693a15a/
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&show_icons=true&theme=radical&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
