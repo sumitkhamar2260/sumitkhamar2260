@@ -7,8 +7,7 @@ Inquisitive, energetic computer science specialist skilled in leadership, with a
 
 Here are some ideas to get you started:
 -->
-
-[https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA](https://www.linkedin.com/in/sumit-khamar-a1693a15a/)
+(https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA)(https://www.linkedin.com/in/sumit-khamar-a1693a15a/)
 
 
 - 🔭 I’m currently working on Different NLP Concepts
