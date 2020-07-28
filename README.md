@@ -26,6 +26,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 [3]: https://www.linkedin.com/in/sumit-khamar-a1693a15a/
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&hide=contribs,prs&show_icons=true&theme=tokyonight)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
