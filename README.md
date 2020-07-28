@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything on Python and ML
 - ⚡ Fun fact: I Never Prefer to Stay Behind in anything Except Driving
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 [1]: https://github.com/sumitkhamar2260
 [2]: https://www.facebook.com/khamar.sumit.3
@@ -26,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitkhamar2260&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhamar2260&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
